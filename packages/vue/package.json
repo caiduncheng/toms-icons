@@ -1,6 +1,6 @@
 {
-  "name": "@element-plus/icons-vue",
-  "version": "2.3.1",
+  "name": "@toms/icons",
+  "version": "0.0.0-dev.8",
   "description": "Vue components of Element Plus Icons collection.",
   "type": "module",
   "keywords": [
