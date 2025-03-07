@@ -1,0 +1,26 @@
+{
+  "name": "@element-plus/icons-monorepo",
+  "version": "2.3.1",
+  "private": true,
+  "packageManager": "pnpm@8.11.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "pnpm run -C playground dev --host",
+    "build": "pnpm run -C ./packages/vue build",
+    "lint": "eslint .",
+    "lint:fix": "pnpm run lint --fix",
+    "format": "prettier --write . && pnpm run -C ./packages/svg optimize",
+    "release": "bumpp -r",
+    "publish": "pnpm run -C ./packages/vue publish"
+  },
+  "devDependencies": {
+    "@sxzz/eslint-config": "^3.7.5",
+    "@sxzz/prettier-config": "^2.0.0",
+    "bumpp": "^9.2.0",
+    "eslint": "^8.54.0",
+    "prettier": "^3.1.0",
+    "typescript": "^5.3.2"
+  },
+  "prettier": "@sxzz/prettier-config"
+}
