@@ -16,5 +16,5 @@
     d="M64 256h896v64H64zM192 448h640V512h-640zM192 704h640V768h-640z"
     p-id="63637"
   ></path>
-  <path d="M320 640H384v192h-64zM640 384h64v192H640z" p-id="63638"></path>
+  <path d="M320 640H384v192h-64zM640 384h64v192H640z" p-id="63638" fill="currentColor"></path>
 </svg>
