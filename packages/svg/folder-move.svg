@@ -1,0 +1,10 @@
+<svg viewBox="0 0 1024 1024"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style type="text/css"></style>
+  </defs>
+  <path
+    fill="currentColor"
+    d="M896 960H128a64 64 0 0 1-64-64V128a64 64 0 0 1 64-64h384l192.992 160H896a64 64 0 0 1 64 64v608a64 64 0 0 1-64 64z m0-640a32 32 0 0 0-32-32h-194.016l-192-160H160a32 32 0 0 0-32 32v704a32 32 0 0 0 32 32h704a32 32 0 0 0 32-32V320z m-352 96l192 160-192 160V416z m-256 128h256v64H288v-64z"
+    p-id="2414"></path>
+</svg>

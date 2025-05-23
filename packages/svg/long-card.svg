@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="master_svg0_5864_55601">
+      <rect x="0" y="0" width="48" height="48" rx="0" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#master_svg0_5864_55601)">
+    <g>
+      <path
+        d="M6,12L42,12L42,36L6,36L6,12ZM4,8C2.89544,8,2,8.89544,2,10L2,38C2,39.104600000000005,2.89544,40,4,40L44,40C45.1046,40,46,39.104600000000005,46,38L46,10C46,8.89544,45.1046,8,44,8L4,8ZM10,18L38,18L38,22L10,22L10,18ZM25,26L10,26L10,30L25,30L25,26Z"
+        fill="currentColor" fill-opacity="1" style="mix-blend-mode:passthrough" />
+    </g>
+    <g>
+      <rect x="27" y="26" width="5" height="4" rx="0" fill="currentColor" fill-opacity="1" />
+    </g>
+    <g>
+      <rect x="34" y="26" width="4" height="4" rx="0" fill="currentColor" fill-opacity="1" />
+    </g>
+  </g>
+</svg>
