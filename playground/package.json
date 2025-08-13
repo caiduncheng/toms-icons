@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@element-plus/icons-svg": "workspace:*",
-    "@element-plus/icons-vue": "workspace:*",
+    "@toms/icons": "workspace:*",
     "vue": "^3.3.9"
   },
   "devDependencies": {
